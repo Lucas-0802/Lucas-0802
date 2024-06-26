@@ -1,5 +1,7 @@
 ## Hi, I'm Lucas Brito! 
 
+*I am currently an undergraduate student in Information Systems at PUC Minas. My studies are focused on Web Development. I am looking for professional challenges, aiming to develop my skills and achieve results.*
+
 - **TECNOLOGIAS QUE EU UTILIZO:**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
