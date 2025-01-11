@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. Atualmente, estou cursando Sistemas de Informação na PUCMG. 
+Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. Atualmente, estou cursando Sistemas de Informação na PUC-MG. Sou apaixonado por tecnologia e como ela cada vez vem mudando a vida das pessoas. Meus estudos e stacks são focados especificamente na frameworks JavaScript tanto de Backend quando Frontend. 
 
 ---
 
