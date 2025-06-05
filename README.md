@@ -8,8 +8,6 @@ Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. At
 
 ### 🤖 Linguagens e Tecnologias
 
-## FrontEnd
-
 <img 
     align="left" 
     alt="HTML5" 
@@ -87,10 +85,6 @@ Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. At
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
----
-
-## BackEnd
-
 <img 
     align="left" 
     alt="Node" 
@@ -118,10 +112,6 @@ Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. At
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 
----
-
-## Banco de Dados
-
 <img 
     align="left" 
     alt="Oracle" 
@@ -148,10 +138,6 @@ Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. At
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-
----
-
-## Outros
 
 <img 
     align="left" 
