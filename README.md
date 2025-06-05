@@ -118,7 +118,7 @@ Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. At
     title="Oracle"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8c0Ib6sAXiiPGmPyN8m1xqaNieC1VoettA&s" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ64WsSHgoh3ivX5aTKjuB-5bMtL3-_4AakVQ&s" 
 />
 
 <img 
@@ -128,15 +128,6 @@ Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. At
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/354099/mysql.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 
 <img 
@@ -172,7 +163,7 @@ Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. At
     title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmg0SrXaYcnUt5NFG_V5fUN3FH8hOJyszTxQ&s" 
+    src="https://i.pinimg.com/736x/8b/81/38/8b8138c4491769dd53c5dc09b6548ecf.jpg" 
 />
 
 <br/>
