@@ -163,7 +163,7 @@ Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. At
     title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://image.pngaaa.com/493/8577493-middle.png" 
+    src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" 
 />
 
 <br/>
