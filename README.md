@@ -87,6 +87,7 @@ Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. At
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
+---
 
 ## BackEnd
 
@@ -101,6 +102,15 @@ Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. At
 
 <img 
     align="left" 
+    alt="Nest" 
+    title="Nest"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Laravel" 
     title="Laravel"
     width="30px" 
@@ -108,7 +118,58 @@ Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. At
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 
+---
+
+## Banco de Dados
+
+<img 
+    align="left" 
+    alt="Oracle" 
+    title="Oracle"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8c0Ib6sAXiiPGmPyN8m1xqaNieC1VoettA&s" 
+/>
+
+<img 
+    align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/354099/mysql.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+
+---
+
 ## Outros
+
+<img 
+    align="left" 
+    alt="PostgreSql" 
+    title="PostgreSql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Zod" 
+    title="Zod"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/colinhacks/zod@c58bd9b0125881caee03a408eae88ec1dc5eb18b/logo.svg" 
+/>
 
 <img 
     align="left" 
@@ -117,6 +178,15 @@ Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. At
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmg0SrXaYcnUt5NFG_V5fUN3FH8hOJyszTxQ&s" 
 />
 
 <br/>
