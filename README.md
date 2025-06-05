@@ -141,6 +141,15 @@ Me chamo Lucas Brito de Paula, tenho 24 anos e sou natural de Belo Horizonte. At
 
 <img 
     align="left" 
+    alt="Prisma" 
+    title="Prisma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/373776/light-prisma.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Zod" 
     title="Zod"
     width="30px" 
