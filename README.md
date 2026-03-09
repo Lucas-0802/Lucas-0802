@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Lucas, tenho 24 anos e sou natural de Belo Horizonte. Atualmente, graduado em Sistemas de Informação na PUC-MG. Sou apaixonado por tecnologia e como ela cada vez vem mudando a vida das pessoas. Meus estudos e stacks são focados especificamente em frameworks JavaScript tanto de Backend quando Frontend. 
+Me chamo Lucas, tenho 25 anos e sou natural de Belo Horizonte. Atualmente, graduado em Sistemas de Informação na PUC-MG. Sou apaixonado por tecnologia e como ela cada vez vem mudando a vida das pessoas. Meus estudos e stacks são focados especificamente em frameworks JavaScript tanto de Backend quando Frontend. 
 
 ---
 
